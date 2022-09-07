@@ -3,8 +3,8 @@ from PIL import Image
 
 st.header('Project')
 st.sidebar.header('Home 🏡')
-image = Image.open('D:\Akshat\Project\SmartSheets2.jpeg')
-st.image(image)
+#image = Image.open('D:\Akshat\Project\SmartSheets2.jpeg')
+#st.image(image)
 
 st.write(
     '''
