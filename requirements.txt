@@ -1,0 +1,11 @@
+streamlit
+pandas
+cv2
+os
+csv
+numpy
+PIL
+datetime
+time
+plotly.graph_objects
+plotly.express
